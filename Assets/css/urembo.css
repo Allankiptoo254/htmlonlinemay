@@ -1,0 +1,30 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    color: aqua;
+    display: block;
+    font-family: Beirut;
+}
+h2{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet
+}
+li a:hover{
+   background-color: black;
+}

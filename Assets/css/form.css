@@ -1,0 +1,16 @@
+form{
+    color: blueviolet;
+    text-align: center;
+}
+body{
+    background-image:url(https://i.pinimg.com/736x/12/05/cf/1205cf5eafc4b4568a520d06718e5cef.jpg);
+    background-size: contain;
+}
+.menu{
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+}
